@@ -3,7 +3,8 @@
 (2).Run the srp_script_jp.m
 (3).make sure to add correct path for your data and GPS file
 
-Visit [UA Remote Sensing Centre] (https://rsc.ua.edu) Website for more Info: 
+Visit [UA Remote Sensing Centre] (https://rsc.ua.edu)
+Website for more Info.
 
 Snow Processing Results: 
 The results are presented in the following publicaiton.
